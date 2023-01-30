@@ -10,4 +10,68 @@ img.main {
 
 .main.text {
     text-align: center;
+    background-color: lightcoral;
+    text-shadow: 2px 2px #0000002d;
 }
+
+a {
+    transition: color 0.5s ease;
+}
+
+a:hover {
+    color: red;
+}
+
+ul.main {
+    text-align: center;
+}
+
+h1.recipe.cure {
+    text-align: center;
+    background-color: crimson;
+    color: white;
+}
+
+h1.recipe.magicka {
+    text-align: center;
+    background-color: dodgerblue;
+    color: white;
+}
+
+h1.recipe.disease {
+    text-align: center;
+    background-color: limegreen;
+    color: white;
+}
+
+img.recipe {
+    border-radius: 50%; 
+    width: 400px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2.recipe.cure {
+    text-align: center;
+    background-color: crimson;
+    color: white;
+}
+
+h2.recipe.magicka {
+    text-align: center;
+    background-color: dodgerblue;
+    color: white;
+}
+
+h2.recipe.disease {
+    text-align: center;
+    background-color: limegreen;
+    color: white;
+}
+
+h2.null {
+    text-align: center;
+}
+
