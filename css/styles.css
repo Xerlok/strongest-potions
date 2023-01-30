@@ -23,6 +23,7 @@ a:hover {
 }
 
 ul.main {
+    list-style-position: inside;
     text-align: center;
 }
 
